@@ -1,0 +1,90 @@
+* {
+	font-family: Garamond, Georgia, serif;
+	overflow: scroll; 
+  	padding-left:25px;
+}
+
+
+h1 { font-size: 48px; color:white;
+	background-position: center;
+	background-color: RoyalBlue;
+	background-size: cover;
+	text-transform: uppercase;
+	max-width:680px; 	
+}
+
+
+
+h2{font-size:36px;
+	color:white;
+	background-color: RoyalBlue;
+	max-width:770px;
+}
+
+
+.header{
+	background-image: url("pastels.jpg");
+	max-width:980px;
+}
+
+
+.headercredit{
+	font-size: 12px;
+	text-align: right;
+	color:RoyalBlue;
+	max-width: 980px;
+}
+
+
+body {
+	font-size: 20px;
+}
+
+
+
+.main{
+	max-width:800px;
+	padding-left:50px;
+	padding-right:50px;
+	font-weight: 150;
+}
+
+.muralimage{
+	position:relative;
+	width:100%;
+}
+
+.caption{
+	font-size: 14px;
+	text-align: left;
+	color:RoyalBlue;
+	max-width:800px;
+	padding-left:50px;
+}
+
+
+
+.credit{
+	position:relative;
+	bottom:25px;
+	right:20px;
+	font-size: 14px;
+	font-style:italic;
+	font-family: sans-serif;
+	text-align: right;
+	color:White;
+	max-width: 780px;
+}
+
+
+
+.footer{
+	overflow:scroll;
+	color:RoyalBlue;
+	font-style: italic;
+	border: 1px solid rgba(0,0,0,0.3);
+	border-color:RoyalBlue;
+	border-radius: 10px;
+	max-width:980px;
+
+}
